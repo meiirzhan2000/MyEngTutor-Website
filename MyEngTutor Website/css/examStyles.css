@@ -1,0 +1,147 @@
+﻿.title {
+    background-color: #D0EAEF;
+    margin-top: 20px;
+}
+
+.title-img {
+    width: 300px;
+    margin: 20px 50px 20px 100px;
+}
+
+.level {
+    padding-top: 120px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.timer {
+    left: 1150px;
+    display: flex;
+    position: sticky;
+    top: 0;
+    width: fit-content;
+    /*position:absolute;*/
+    z-index: 10;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 30px;
+    background-color: white;
+}
+
+/*
+.timer div{
+    flex-basis: 100px;
+}
+
+.timer div p{
+    font-size: 60px;
+    margin-bottom: -14px;
+}
+
+*/
+
+
+.time-display {
+    display: inline;
+    margin-left: 5px;
+    font-size: 30px;
+}
+
+.time-splitter {
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.accordion-flush {
+    border: 0.5px solid #b7b7b7;
+    margin-bottom: 30px;
+}
+
+.answer-area {
+    border-radius: 8px;
+    border-style: solid;
+}
+
+
+
+.body-collapse {
+    margin-bottom: 30px;
+    border: 1px solid #DEE2E6 !important;
+    border-radius: 5px;
+}
+
+
+
+.btn-collapse {
+    background-color: #E1E9EB !important;
+    border: none;
+    border-radius: 5px !important;
+}
+
+.chk-section {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.chk-button {
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+.menu-stuff {
+    width: 130px;
+}
+
+
+.questions-section {
+    padding: 30px 80px 30px 80px;
+}
+
+
+.questionsA {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.questionsB {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.questionsC {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+
+
+.reading-task {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.section-header {
+    border: none;
+    border-radius: 5px;
+}
+
+/*
+.title {
+    background-color: #D0EAEF;
+    margin-top: 20px;
+}
+
+.title-img {
+    width: 300px;
+    margin: 20px 50px 20px 100px;
+}
+*/

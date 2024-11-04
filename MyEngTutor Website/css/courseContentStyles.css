@@ -1,0 +1,72 @@
+﻿h1 {
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 65px;
+}
+
+h3 {
+    margin: 0;
+    /*margin-right: 435px;*/
+}
+
+
+.enter-unit {
+    color: black;
+    text-decoration: none;
+}
+
+    .enter-unit:hover {
+        color: black;
+    }
+
+.enter-icon {
+    text-align: end;
+    padding-top: 3px;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.question-count {
+    padding-top: 10px;
+    padding-right: 10px;
+    /*padding-left: 440px;*/
+}
+
+
+.quiz-section {
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.quiz-button {
+    padding-left: 20px;
+    text-align: start;
+    height: 80px;
+    background-color: #E1E9EB;
+    color: black;
+    font-weight: bold;
+}
+
+
+.title {
+    background-color: #D0EAEF;
+    margin-top: 20px;
+}
+
+.title-img {
+    width: 300px;
+    margin: 20px 50px 20px 100px;
+}
+
+.tasks {
+    padding: 50px 110px 50px 110px;
+}
+
+
+.units {
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: solid black;
+    border-width: thin;
+}

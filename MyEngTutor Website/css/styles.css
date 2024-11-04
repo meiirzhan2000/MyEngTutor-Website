@@ -1,0 +1,115 @@
+﻿h1 {
+    font-size: 3.5rem;
+    margin: 50px auto 30px auto;
+}
+
+
+h4 {
+    margin-bottom: 40px;
+}
+
+
+.btn-contents {
+    padding-top: 11px !important;
+    height: 35px;
+    width: 90px;
+    font-size: 10px;
+    background-color: #00D4FF;
+    color: white;
+    border: none;
+}
+
+
+.btnExam {
+    background-color: #637887;
+    color: white;
+    width: 250px;
+    height: 50px;
+    padding-top: 12px;
+    border-radius: 30px;
+    margin-top: 90px;
+    border: none;
+}
+
+
+
+.card {
+    border-radius: 1em;
+}
+
+
+.courses {
+    font-family: 'Abhaya Libre', serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.course-section {
+    padding: 100px;
+    text-align: center;
+}
+
+
+.courseImage {
+    object-fit: contain;
+    border-radius: 1em;
+    padding: 10px;
+}
+
+
+.course-desc {
+    font-size: 0.7rem;
+}
+
+
+.ddButton {
+    width: 160px;
+    padding: 0;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+.exam-results {
+    margin-top: 30px;
+}
+
+    .exam-results p {
+        font-family: 'Montserrat', sans-serif;
+    }
+
+.exam-section {
+    background-color: #E1E9EB;
+}
+
+
+.explanation-1 {
+    padding: 3% 20% 0 20%;
+    font-family: 'Finger Paint', cursive;
+}
+
+.explanation-2 {
+    padding: 1% 20% 4% 20%;
+    font-family: 'Finger Paint', cursive;
+}
+
+.mainImg {
+    background-color: #D4EDF3;
+    width: 1000px;
+}
+
+
+.menu-stuff {
+    width: 150px;
+}
+
+.part1 {
+    text-align: center;
+}
+
+
+.section-contents {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
